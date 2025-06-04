@@ -1,0 +1,7 @@
+Copyright (c) 2025 Sandor Trombitas
+
+This original work (Tesla Roadster simulation system) is provided solely for demonstration, educational, or evaluation purposes.
+
+No part of this code may be used, copied, modified, sublicensed, or redistributed for commercial purposes or integration into any commercial or proprietary product without prior written consent from the author.
+
+Submitted without agreement. All rights reserved.
