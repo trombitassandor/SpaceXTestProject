@@ -26,7 +26,7 @@ namespace TeslaRoadster
             sun.localScale *= worldScale;
             sunLight.intensity *= worldScale;
             sunLight.bounceIntensity *= worldScale;
-            sunLight.range = worldScale;
+            sunLight.range *= worldScale;
             roadster.localScale *= worldScale;
         }
 

@@ -1265,6 +1265,10 @@ PrefabInstance:
       propertyPath: worldScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3431095334503166893, guid: f1389a6f192784b70ae3b176cdcb437d, type: 3}
+      propertyPath: m_ColorTemperature
+      value: 2305
+      objectReference: {fileID: 0}
     - target: {fileID: 7717253534343430026, guid: f1389a6f192784b70ae3b176cdcb437d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
